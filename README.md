@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Shafin Rahman 🧔</h1>
-<h3 align="center">💻 A passionate full-stack developer from Bangladesh</h3>
+<h3 align="center">💻 SQA Engineer</h3>
+<h3 align="center">💻 Front-End Developer</h3>
 
-- 📝 I’m currently learning **MERN stack development**
+- 📝 I’m currently learning **Test Automation**
 
-- :black_heart: I love to research, design & build websites and web applications.
+- :black_heart: I like researching, designing and building software, as well as testing and ensuring its quality.
 
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
