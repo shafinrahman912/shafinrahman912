@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shafin Rahman 🧔</h1>
 <h3 align="center">💻 SQA Engineer</h3>
-<h3 align="center">💻Manual Testing | Test Case & Report Writing | Agile | JIRA | Test Automation | Selenium WebDriver & Java & TestNG | Postman & Newman | JMeter | SQL | Front-End Developer</h3>
+<h3 align="center">Manual Testing | Test Case & Report Writing | Agile | JIRA | Test Automation | Selenium WebDriver & Java & TestNG | Postman & Newman | JMeter | SQL | Front-End Developer</h3>
 
 - 📝 I’m currently learning **Test Automation**
 
