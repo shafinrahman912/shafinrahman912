@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shafin Rahman 🧔</h1>
-<h3 align="center">💻 SQA Engineer</h3>
+<h2 align="center">💻 Software Engineer</h2>
+<h3 align="center"> Software Quality Assurance</h3>
 <h3 align="center">Manual Testing | Test Case & Report Writing | Agile | JIRA | Test Automation | Selenium WebDriver & Java & TestNG | Postman & Newman | JMeter | SQL | Front-End Developer</h3>
 
 - 📝 I’m currently learning **Test Automation**
@@ -15,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shafin-rahman-aust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin-rahman-84527630a" height="30" width="30" /></a>
-<a href="https://www.facebook.com/shafin.rahman.27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafin-rahman-84527630a" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/shafin-rahman-aust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin-rahman-84527630a" height="25" width="25" /></a>
+<a href="https://www.facebook.com/shafin.rahman.27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafin-rahman-84527630a" height="25" width="25" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
