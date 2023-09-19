@@ -6,7 +6,6 @@
 <img align="right" alt="coding" width="450" height="350"   style="border-radius: 55px" src="https://github.com/shafinrahman912/shafinrahman912/assets/83553368/76e61057-04f6-4ef7-b047-fa6e78396504">
 
 
-
 - 📝 I’m currently learning **Test Automation**
 
 - :black_heart: I like researching, designing and building software, as well as testing and ensuring its quality.
