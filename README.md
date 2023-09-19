@@ -4,7 +4,8 @@
 <h3 align="center"> Software Quality Assurance Enthusiast</h3>
 <h3 align="center">Manual Testing | Test Case & Report Writing | Agile | JIRA | Test Automation | Selenium WebDriver & Java & TestNG | Postman & Newman | JMeter | SQL | Front-End Developer</h3>
 
-<img align="right" alt="coding" width="300"   style="border-radius: 55px" src="https://github.com/shafinrahman912/shafinrahman912/assets/83553368/272b1efa-86e9-4e84-ad98-1b18e693161c">
+<img align="right" alt="coding" width="450" height="350"   style="border-radius: 55px" src="https://github.com/shafinrahman912/shafinrahman912/assets/83553368/76e61057-04f6-4ef7-b047-fa6e78396504">
+
 
 
 - 📝 I’m currently learning **Test Automation**
