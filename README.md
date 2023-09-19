@@ -1,4 +1,3 @@
-<span style="font-family:  Courier New, monospace;letter-spacing:2.5px;">
 <h1 align="center">Hi 👋, I'm Shafin Rahman 🧔</h1>
 <h2 align="center">💻 Software Engineer</h2>
 <h3 align="center"> Software Quality Assurance Enthusiast</h3>
@@ -24,7 +23,8 @@
 <a href="https://linkedin.com/in/shafin-rahman-aust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafin-rahman-aust" height="35" width="40" /></a>
 <a href="https://www.facebook.com/shafin.rahman.27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shafin.rahman.27" height="35" width="40" /></a>
 </p>
-<table >
+
+<table style="border:none">
         <tbody>
            <tr>
               <td><h3 align="center">Test Automation Tools</h3>
@@ -97,34 +97,7 @@
            </a>
      </p>
      </td>
-              <td><h3 align="center" >Version Control & Project Management Tools</h3>
-     <p align="center">
-           <!-- git &jira -->
-           <a href="https://git-scm.com/" target="_blank" style="margin-right: 10px">
-             <img
-               src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-               alt="git"
-               width="35"
-               height="35"
-             />
-           </a>
-           <a
-             href="https://www.atlassian.com/software/jira/work-management"
-             target="_blank"
-             style="margin-right: 10px"
-           >
-             <img
-               src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
-               alt="atlassian_jira"
-               width="35"
-               height="35"
-             />
-           </a>
-     </p>
-              </td>
-           </tr>
-           <tr>
-              <td><h3 align="center">Programming Languages</h3>
+        <td><h3 align="center">Programming Languages</h3>
      <p align="center">
            <!-- programming Languages -->
            <a href="https://www.java.com" target="_blank" style="margin-right: 10px">
@@ -183,7 +156,34 @@
                height="35"
              />
            </a>
-     </p></td>
+     </p></td>                
+           </tr>
+           <tr>
+            <td><h3 align="center" >Version Control & Project Management Tools</h3>
+     <p align="center">
+           <!-- git &jira -->
+           <a href="https://git-scm.com/" target="_blank" style="margin-right: 10px">
+             <img
+               src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+               alt="git"
+               width="35"
+               height="35"
+             />
+           </a>
+           <a
+             href="https://www.atlassian.com/software/jira/work-management"
+             target="_blank"
+             style="margin-right: 10px"
+           >
+             <img
+               src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
+               alt="atlassian_jira"
+               width="35"
+               height="35"
+             />
+           </a>
+     </p>
+              </td>
               <td><h3 align="center">Databases</h3>
      <p align="center">
            <!-- database -->
@@ -354,7 +354,7 @@
              />
            </a></td>
               <td> <!-- other tools -->
-          <h3 align="center">Designing Techs</h3>
+          <h3 align="center">Other Tools</h3>
             <p align="center">
            <a
              href="https://www.mathworks.com/"
