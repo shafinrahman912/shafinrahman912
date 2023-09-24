@@ -8,12 +8,12 @@
 <br/>
 
 - 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, Manual Testing, API Testing, Performance Testing) roles**
-- 🔭 I’m currently working on: **Java | Selenium | TestNG | Maven |**
-- 📝 I’m currently learning **Test Automation | Advanced SQL | Advanced Java |Cypress**
+- 🔭 I’m currently working on: **Java | Selenium | TestNG | Maven**
+- 📝 I’m currently learning **Test Automation | Advanced SQL | Advanced Java | Cypress**
 
-- :black_heart: I like **researching, designing and building software, as well as testing and ensuring its quality.**
+- :black_heart: I like **researching, designing and building software, as well as testing and ensuring its quality**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- :books: Learning new things, self driven, hard working and friendly.:smiley:
+- :books: Learning new things, self-driven, hard-working and friendly:smiley:
 
 - 👨‍💻 All of my projects are available at [https://github.com/shafinrahman912](https://github.com/shafinrahman912)
 - 🤓 Active User at: **GitHub | LinkedIn**
