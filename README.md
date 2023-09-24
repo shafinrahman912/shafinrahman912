@@ -5,16 +5,20 @@
 
 <img align="right" alt="coding" width="450" height="350"   style="border-radius: 55px" src="https://github.com/shafinrahman912/shafinrahman912/assets/83553368/0805a0eb-6070-43b3-aeca-b920afb13b8d">
 
+<br/>
 
-- 📝 I’m currently learning **Test Automation**
+- 🙌 I'm currently open to: **Software Development Engineer in Test (SDET, Automation, Manual Testing, API Testing, Performance Testing) roles**
+- 🔭 I’m currently working on: **Java | Selenium | TestNG | Maven |**
+- 📝 I’m currently learning **Test Automation | Advanced SQL | Advanced Java |Cypress**
 
-- :black_heart: I like researching, designing and building software, as well as testing and ensuring its quality.
-
+- :black_heart: I like **researching, designing and building software, as well as testing and ensuring its quality.**
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
 - 👨‍💻 All of my projects are available at [https://github.com/shafinrahman912](https://github.com/shafinrahman912)
+- 🤓 Active User at: **GitHub | LinkedIn**
 
-- 📧 How to reach me **shafinrahman.aust@gmail.com**
+- 📫 How to reach me: **shafinrahman.aust@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
