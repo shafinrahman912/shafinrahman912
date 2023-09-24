@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shafin Rahman 🧔</h1>
-<h2 align="center">💻 Software Engineer</h2>
+<h3 align="center">💻 Software Engineer</h3>
 <h3 align="center"> Software Quality Assurance Enthusiast</h3>
-<h3 align="center">Manual Testing | Test Case & Report Writing | Agile | JIRA | Test Automation | Selenium WebDriver & Java & TestNG | Postman & Newman | JMeter | SQL | Front-End Developer</h3>
+<h4 align="center">Manual Testing | Test Case & Report Writing | Agile | JIRA | Test Automation | Selenium WebDriver & Java & TestNG | Postman & Newman | JMeter | SQL | Front-End Developer</h4>
 
 <img align="right" alt="coding" width="450" height="350"   style="border-radius: 55px" src="https://github.com/shafinrahman912/shafinrahman912/assets/83553368/0805a0eb-6070-43b3-aeca-b920afb13b8d">
 
