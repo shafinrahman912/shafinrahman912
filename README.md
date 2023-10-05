@@ -19,6 +19,7 @@
 - 🤓 Active User at: **GitHub | LinkedIn**
 
 - 📫 How to reach me: **shafinrahman.aust@gmail.com**
+-  📝 **Updated CV: https://cutt.ly/wwnb1myn**
 
 <h3 align="left">Connect with me:</h3>
 
